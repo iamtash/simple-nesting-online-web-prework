@@ -143,3 +143,5 @@ def adding_to_dennis
 	puts programmer_hash[:dennis_ritchie]
 
 end
+
+adding_to_dennis
